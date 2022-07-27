@@ -1,24 +1,25 @@
-### Hi there 👋
+<div align=center> 👋 Hi there 👋</div>
+<br>
+<br>
 
-<!--
-**chominyeong/chominyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+  <!--
+My name is <br>
+✔️조민영 ✔️Cho Min Yeong ✔️Zhào Mínróng-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+  <!--
+I'm major STATISTICS & SOFTWARE CONVERGENCE at SMWU 20th.<br>
+I'm interested in BIGDATA and Artificial Inteligence.
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominyeong&count_bg=%2392E7FF&title_bg=%23FFFA98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominyeong&count_bg=%2392E7FF&title_bg=%23FFFA98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominyeong&count_bg=%2392E7FF&title_bg=%23FFFA98&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominyeong)](https://github.com/anuraghazra/github-readme-stats)
