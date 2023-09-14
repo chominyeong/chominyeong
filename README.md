@@ -1,2 +1,2 @@
 
-:octocat:  안뇽
+:octocat:  애옹
